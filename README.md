@@ -48,14 +48,24 @@ Even with replacing the ninth grader's math and reading scores, Thomas High Scho
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
 *Before*
+
+*Math Score by Grade Before*
 
 ![](Resources/mathscore_by_grade_before.PNG)
 
+*Reading Score by Grade Before*
+
 ![](Resources/readingscore_by_grade_before.PNG)
+
 *After*
 
+*Math Score by Grade After*
+
 ![](Resources/mathscore_by_grade_after.PNG)
+
+*Reading Score by Grade After*
 
 ![](Resources/readingscore_by_grade_after.PNG)
 
