@@ -112,9 +112,7 @@ Conclusion: Based on this analysis, there was no change between the before and a
 ## Summary
 After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, four major changes are identified for the updated school district analysis:
 
--
-
--
-
--
--
+- For the District Summary Analysis, the passing math percentage, passing reading percentage, and the overall percentage decreased in a slight amount.
+- For the School Summary Analysis,  the passing math percentage, passing reading percentage, and the overall percentage decreased in a slight amount.
+- For the Math and Reading Score By Grade Analysis, the 9th grade math and reading score was replaced with NaN.
+- Thomas High School is the second top school despite the removal of the 9th grade math and reading score. This is because the passing math, reading, and overall percentage were not heavily affected by the data removal.
