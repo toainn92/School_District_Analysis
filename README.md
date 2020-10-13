@@ -6,11 +6,14 @@ The school board has notified Maria and her supervisor that the "students_comple
 ## Results
 
 ### How is the district summary affected?
-Before
+*Before*
+
 ![](Resources/District_Summary_before.PNG)
 
-After
+*After*
 ![](Resources/District_Summary_After.PNG)
+
+
 
 ### How is the school summary affected?
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
