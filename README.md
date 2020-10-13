@@ -81,9 +81,33 @@ Conclusion: Based on this analysis, only the 9th graders data for Thomas High Sc
 
 ![](Resources/scoresby_spending_after.PNG)
 
+Conclusion: Based on this analysis, there was no change between the before and after removing the 9th graders data for Thomas High School.
 
 - Scores by school size
+
+*Before*
+
+![](Resources/scoresby_size_before.PNG)
+
+*After*
+
+![](Resources/scoresby_size_after.PNG)
+
+Conclusion: Based on this analysis, there was no change between the before and after removing the 9th graders data for Thomas High School.
+
 - Scores by school type
+
+*Before*
+
+![](Resources/scoresby_type_before.PNG)
+
+*After*
+
+![](Resources/scoresby_type_after.PNG)
+
+Conclusion: Based on this analysis, there was no change between the before and after removing the 9th graders data for Thomas High School.
+
+
 
 ## Summary
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
