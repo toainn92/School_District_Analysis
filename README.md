@@ -11,6 +11,7 @@ The school board has notified Maria and her supervisor that the "students_comple
 ![](Resources/District_Summary_before.PNG)
 
 *After*
+
 ![](Resources/District_Summary_After.PNG)
 
 
