@@ -29,6 +29,11 @@ The school board has notified Maria and her supervisor that the "students_comple
 
 ![](Resources/School_Summary_After.PNG)
 
+- The average math score went down by 0.1
+- The average reading score stayed the same.
+- The passing math percentage went down by 0.2%.
+- The passing reading percentage went down by 0.3%.
+- The overall passing percentage went down by 0.1%.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
