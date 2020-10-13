@@ -110,4 +110,11 @@ Conclusion: Based on this analysis, there was no change between the before and a
 
 
 ## Summary
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, four major changes are identified for the updated school district analysis:
+
+-
+
+-
+
+-
+-
