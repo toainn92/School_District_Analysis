@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-Overview of the school district analysis: Explain the purpose of this analysis.
+The school board has notified Maria and her supervisor that the "students_complete.csv" file shows evidence of academic dishonesty. as a result, the reading and math grades for Thomas High School ninth graders score will be omitted. The purpose of this analysis is to compare the result of the data frame before and after the omission of the reading and math grades for Thomas High School ninth graders score. To perform this analysis, "students.complete.csv" and "schools_complete.csv" were analyzed via PythonData in Jupyter Notebooks.
 
 ## Results
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
