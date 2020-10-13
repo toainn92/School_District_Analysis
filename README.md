@@ -72,6 +72,16 @@ Even with replacing the ninth grader's math and reading scores, Thomas High Scho
 Conclusion: Based on this analysis, only the 9th graders data for Thomas High School were removed. All other scores stayed the same.
 
 - Scores by school spending
+
+*Before*
+
+![](Resources/scoresby_spending_before.PNG)
+
+*After*
+
+![](Resources/scoresby_spending_after.PNG)
+
+
 - Scores by school size
 - Scores by school type
 
