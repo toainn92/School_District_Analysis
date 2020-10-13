@@ -36,6 +36,16 @@ The school board has notified Maria and her supervisor that the "students_comple
 - The overall passing percentage went down by 0.3%.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+*Before*
+
+![](Resources/Top_5_Before.PNG)
+
+*After*
+
+![](Resources/Top_5_After.PNG)
+
+Even with replacing the ninth grader's math and reading scores, Thomas High School's performance is still the second top school relatively to other schools.
+
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
