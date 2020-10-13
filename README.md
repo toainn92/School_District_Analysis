@@ -48,6 +48,19 @@ Even with replacing the ninth grader's math and reading scores, Thomas High Scho
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+*Before*
+
+![](Resources/mathscore_by_grade_before.PNG)
+
+![](Resources/readingscore_by_grade_before.PNG)
+*After*
+
+![](Resources/mathscore_by_grade_after.PNG)
+
+![](Resources/readingscore_by_grade_after.PNG)
+
+Conclusion: Based on this analysis, only the 9th graders data for Thomas High School were removed. All other scores stayed the same.
+
 - Scores by school spending
 - Scores by school size
 - Scores by school type
